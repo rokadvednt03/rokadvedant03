@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vedant A. Rokad</h1>
 <h3 align="center">As a sophomore pursuing a degree in Electronics and Communication Engineering from the Institute of Technology Nirma University, I am an aspiring embedded systems enthusiast with a strong passion for embedded programming.</h3>
-<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/241205/screenshots/15994730/media/b52c5e770d9c53f5c07311c003577b5b.png?compress=1&resize=768x576&vertical=top">
+<img align="left" alt="Coding" width="400" src="https://wallpapers.com/images/hd/awesome-beginning-of-linux-n6b6o7s6npfgxgct.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokadvednt03&label=Profile%20views&color=0e75b6&style=flat" alt="rokadvednt03" /> </p>
 
