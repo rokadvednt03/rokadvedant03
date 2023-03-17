@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant A. Rokad</h1>
 <h3 align="center">As a sophomore pursuing a degree in Electronics and Communication Engineering from the Institute of Technology Nirma University, I am an aspiring embedded systems enthusiast with a strong passion for embedded programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rokadvedant03&label=Profile%20views&color=0e75b6&style=flat" alt="rokadvedant03" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rokadvednt03&label=Profile%20views&color=0e75b6&style=flat" alt="rokadvednt03" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vedant_rokad" target="blank"><img src="https://img.shields.io/twitter/follow/vedant_rokad?logo=twitter&style=for-the-badge" alt="vedant_rokad" /></a> </p>
 
@@ -24,6 +24,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rokadvedant03&show_icons=true&locale=en&layout=compact" alt="rokadvedant03" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rokadvednt03&show_icons=true&locale=en&layout=compact" alt="rokadvednt03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rokadvedant03&" alt="rokadvedant03" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rokadvednt03&" alt="rokadvednt03" /></p>
