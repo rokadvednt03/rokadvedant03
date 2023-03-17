@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedant A. Rokad</h1>
 <h3 align="center">As a sophomore pursuing a degree in Electronics and Communication Engineering from the Institute of Technology Nirma University, I am an aspiring embedded systems enthusiast with a strong passion for embedded programming.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokadvedant03&label=Profile%20views&color=0e75b6&style=flat" alt="rokadvedant03" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vedant_rokad" target="blank"><img src="https://img.shields.io/twitter/follow/vedant_rokad?logo=twitter&style=for-the-badge" alt="vedant_rokad" /></a> </p>
@@ -19,7 +19,6 @@
 <a href="https://linkedin.com/in/vedant a. rokad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant a. rokad" height="30" width="40" /></a>
 <a href="https://fb.com/vedant rokad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vedant rokad" height="30" width="40" /></a>
 <a href="https://instagram.com/_.iamved_.09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.iamved_.09" height="30" width="40" /></a>
-<a href="https://medium.com/@rokadvedant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rokadvedant" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
