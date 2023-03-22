@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/vedant_rokad" target="blank"><img src="https://img.shields.io/twitter/follow/vedant_rokad?logo=twitter&style=for-the-badge" alt="vedant_rokad" /></a> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **XLR8 Aerospace**
+- 🔭 I’m currently working on **Embedded Linux**
 
 - 🌱 I’m currently learning **RTOS & Embedded Linux with beaglebone black**
 
@@ -38,7 +38,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rokadvednt03&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
