@@ -34,9 +34,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rokadvednt03&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rokadvednt03&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+### ✍️ Today's Quote
+<h3 align="left">If we can't learn to fail, we will fail to learn.</h3>
 ---
 
 
