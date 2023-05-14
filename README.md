@@ -3,11 +3,11 @@
 <h3 align="center">As a sophomore pursuing a degree in Electronics and Communication Engineering from the Institute of Technology Nirma University, I am an aspiring embedded systems enthusiast with a strong passion for embedded programming.</h3>
 <img align="left" alt="Coding" width="400" src="https://wallpapers.com/images/hd/awesome-beginning-of-linux-n6b6o7s6npfgxgct.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rokadvednt03&label=Profile%20views&color=0e75b6&style=flat" alt="rokadvednt03" /> </p>
 
 
 
 # 💫 About Me:
+--------------------------------------------------------------------------------------------
 - 🔭 I’m currently working on **Embedded Linux**
 
 - 🌱 I’m currently learning **RTOS & Embedded Linux with beaglebone black**
@@ -15,6 +15,8 @@
 - 💬 Ask me about **STM32 Driver Development, Microcontroller**
 
 - 📫 How to reach me **rokadvedant03@gmail.com**
+--------------------------------------------------------------------------------------------
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
