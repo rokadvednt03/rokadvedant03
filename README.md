@@ -32,9 +32,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rokadvednt03&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rokadvednt03&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Motivate me 
-<h3 align="left">If we can't learn to fail, we will fail to learn.</h3>
----
+**********************************************************************************************************************
+<h2 align="left">If we can't learn to fail, we will fail to learn.</h2>
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
