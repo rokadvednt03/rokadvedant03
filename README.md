@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vedant A. Rokad</h1>
-<h3 align="center">As a sophomore pursuing a degree in Electronics and Communication Engineering from the Institute of Technology Nirma University, I am an aspiring embedded systems enthusiast with a strong passion for embedded programming.</h3>
+<h3 align="center">As a pursuing a degree in Electronics and Communication Engineering from the Institute of Technology Nirma University, I am an aspiring embedded systems enthusiast with a strong passion for embedded programming.</h3>
 <img align="left" alt="Coding" width="400" src="https://wallpapers.com/images/hd/awesome-beginning-of-linux-n6b6o7s6npfgxgct.webp">
 
 
