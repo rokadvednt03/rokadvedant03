@@ -8,11 +8,11 @@
 
 # 💫 About Me:
 --------------------------------------------------------------------------------------------
-- 🔭 I’m currently working on **Embedded Linux**
+- 🔭 I’m currently improving on **Professional Development**
 
 - 🌱 I’m currently learning **RTOS & Embedded Linux with beaglebone black**
 
-- 💬 Ask me about **STM32 Driver Development, Microcontroller**
+- 💬 Ask me about **STM32 Driver Development**
 
 - 📫 How to reach me **rokadvedant03@gmail.com**
 --------------------------------------------------------------------------------------------
